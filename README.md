@@ -35,6 +35,7 @@ unsigned __int8 *__fastcall cocos2d::CCFileUtils::dataFastSet(
 }
 
 
+
 int __fastcall xxtea_decrypt(
         unsigned __int8 *a1,
         unsigned int a2,

@@ -35,3 +35,11 @@ http://res.pet.qq.com/client/QQPetPig2007Alpha03_All_setup.EXE
 
 QQ小游戏摘星星：
 http://www.7k7k.com/swf/135776.htm
+
+QQ跑酷：
+http://www.7k7k.com/flash/99957.htm
+
+https://web.archive.org/web/20120209030858/www.7k7k.com/tag/60/
+
+https://web.archive.org/web/20110426102551/http://www.7k7k.com/tag/60/
+![图片](https://github.com/weiwandaixu905/storage/assets/16803470/94d8b4c0-0699-46ee-8ed2-f9ea3ac40335)

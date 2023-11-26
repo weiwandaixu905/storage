@@ -11,4 +11,4 @@ https://kid.qq.com/zt/2010/bear1/list3.htm
 
 http://down.qq.com/qqpet2/full/QQPets3D1.0Beta6Build324.exe
 
-![QQ截图20231126230339](https://github.com/weiwandaixu905/storage/assets/16803470/e70d64dd-a606-47b6-b54b-b347dd474387)
+

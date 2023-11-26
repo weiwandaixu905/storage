@@ -8,6 +8,7 @@ https://web.archive.org/web/20120115211413/https://kid.qq.com/zt/2010/bear1/inde
 https://web.archive.org/web/20111003222525/http://kid.qq.com/zt/2009/pet/cwzx.htm
 
 https://kid.qq.com/zt/2010/bear1/list3.htm
+
 QQ宠物安装包链接：
 http://down.qq.com/qqpet2/full/QQPets3D1.0Beta6Build324.exe
 
